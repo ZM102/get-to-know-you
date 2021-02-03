@@ -15,6 +15,7 @@ Group #class13-14_4
 **Country:** [Turkey :earth_asia:](https://goo.gl/maps/ecotvbJbgqm8VcCQ7)
 
 **What I like:** Learning
+
 **Everyday quote:** All is well...
 
 ---
