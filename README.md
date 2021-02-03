@@ -9,7 +9,7 @@ Group #class13-14_4
 * [Zenat Ikbal](https://github.com/ZM102)
 * [Inggrit E Novaleta](https://gist.github.com/inggritenovaleta)
 * [Mahmoud Hasan](https://github.com/MahmoudHasan83)
-* [Saban](https://github.com/sabanyelkenci)
+* [Saban Yelkenci](https://github.com/sabanyelkenci)
 * [Ali Abouteir](https://github.com/AliAbouteir)
 
 ---
