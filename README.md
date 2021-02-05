@@ -5,11 +5,11 @@ _"We are ready to hack our future."_ :muscle:
 Group #class13-14_4
 
 ---
-## Our members: 
+## Who are we? 
 * [Zenat Ikbal](https://github.com/ZM102)
 * [Inggrit E Novaleta](https://gist.github.com/inggritenovaleta)
-* [Mahmoud Hasan](https://github.com/MahmoudHasan83)
 * [Saban Yelkenci](https://github.com/sabanyelkenci)
+* [Mahmoud Hasan](https://github.com/MahmoudHasan83)
 * [Ali Abouteir](https://github.com/AliAbouteir)
 
 ---
