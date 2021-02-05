@@ -7,7 +7,7 @@ Group #class13-14_4
 ---
 ## Personal Bio
 
-![Inggrit](https://github.com/HackYourFutureBelgium/class-13-14/raw/master/admin/avatars/students/inggritenovaleta.jpeg)
+![Inggrit](https://avatars.githubusercontent.com/u/73132384?s=460&u=7a7a3aeb068a7502d89fa98e12a5661f37e4a971&v=4)
 
 **Name:** Inggrit Eunike Novaleta
 
